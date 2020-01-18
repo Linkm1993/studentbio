@@ -22,12 +22,12 @@ a {
 .container {
     width: 1024px;
     margin: 0 auto;
-    overflow: hidden
 }
 
-#main-bio
+#main-bio,
 #contact-info,
-#bio-image {
+#bio-image,
+#para {
     float: left;
 }
 
